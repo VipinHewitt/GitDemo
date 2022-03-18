@@ -5,7 +5,7 @@ public class CoreJavaProg {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		String s1 = "Vipin Purwar";
+		String s1 = "String Java Examples";
 		String r = "";
 		for(int i=s1.length()-1; i>=0; i--)
 		{
@@ -32,7 +32,7 @@ public class CoreJavaProg {
 			System.out.println(arr1[i]);
 		}
 		
-		String[] str = {"vipin", "purwar","java"};
+		String[] str = {"Selenium", "Testng","java"};
 		
 		System.out.println(str[2]);
 		
