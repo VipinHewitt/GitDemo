@@ -14,6 +14,7 @@ public class CoreJavaArrayList {
 		al.add("Test1");
 		al.add("Test2");
 		al.add("Java");
+		al.add("Java1");
 		
 		System.out.println(al);
 
